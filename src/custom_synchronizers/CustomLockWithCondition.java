@@ -1,4 +1,4 @@
-package customSynchronizers;
+package custom_synchronizers;
 
 public class CustomLockWithCondition {
     private boolean isLocked = false;

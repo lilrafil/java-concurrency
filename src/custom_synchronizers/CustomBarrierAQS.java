@@ -1,4 +1,4 @@
-package customSynchronizers;
+package custom_synchronizers;
 
 import java.util.concurrent.locks.*;
 
